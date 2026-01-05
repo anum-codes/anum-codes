@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Anum
 
-<!--
-**anum-codes/anum-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Learning Python & AI Engineering
+- Preparing for Google Summer of Code 2026
+- Interested in open source, data, and ML tools
 
-Here are some ideas to get you started:
+### Currently working on
+- Python fundamentals
+- Open source contributions
+- Small automation projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sort Term Goals
+- Contribute to beginner-friendly Python projects
+- Apply to GSoC 2026
+
+### Long Term Goals
+- Will reveal soon
