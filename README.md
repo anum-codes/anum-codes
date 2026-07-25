@@ -1,15 +1,17 @@
 ## Hi 👋 I'm Anum
 
-- Learning Python & AI Engineering
+- Learning AI Engineering
 - Interested in open source, data, and ML tools
 
 ### Currently working on
 - Python fundamentals
 - Open source contributions
-- Small automation projects
+- Automation projects
+- RAG Agents
+- AI/ML Core Concepts
 
 ### Sort Term Goals
-- Contribute to beginner-friendly Python projects
+- Contribute to beginner-friendly projects
 
 ### Long Term Goals
 - Will reveal soon
